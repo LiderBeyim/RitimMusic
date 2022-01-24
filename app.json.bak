@@ -15,12 +15,12 @@
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
             "required": true,
-			"value": "19876904"
+			"value":
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
             "required": true,
-			"value": "e7715e32c8a0c6af17faa8eb884bf65b"
+			"value":
         },
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
